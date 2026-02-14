@@ -101,12 +101,13 @@ http://localhost:5173
 
 
 src/
- ├── api/              # API layer (Axios configuration)
- ├── components/       # Reusable UI components
- ├── pages/            # Home, History, Status pages
- ├── types/            # TypeScript type definitions
- ├── App.tsx           # Router configuration
- └── main.tsx          # Application entry point
+├── api/              # API layer (Axios configuration)
+├── components/       # Reusable UI components
+├── pages/            # Home, History, Status pages
+├── types/            # TypeScript type definitions
+├── App.tsx           # Router configuration
+└── main.tsx          # Application entry point
+
 
 
 ---
